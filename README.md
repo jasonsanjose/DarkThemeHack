@@ -1,4 +1,4 @@
-brackets-dark-theme-extension
-=============================
+DarkThemeHack
+=============
 
-A sample extension. Note that theme support in Brackets is not official. Loading stylesheets in the manner shown here does not follow the guidelines https://github.com/adobe/brackets/wiki/Extension-UI-Guidelines.
+Note that theme support in Brackets is not official. Loading stylesheets in the manner shown here does not follow the guidelines https://github.com/adobe/brackets/wiki/Extension-UI-Guidelines.
